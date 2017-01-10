@@ -1,0 +1,9 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "Project notekeeping app.",
+  "main": "src/app.js",
+  "repository": "git@github.com:interdoodle/notes",
+  "author": "Conail Stewart <conailstewart@gmail.com>",
+  "license": "MIT"
+}
